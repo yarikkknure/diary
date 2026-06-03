@@ -1,0 +1,33 @@
+# Загальні артефакти збірки .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Скидання налагоджувача
+*.pdb
+
+# Файли NuGet
+*.nupkg
+*.snupkg
+[Pp]ackages/
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+# Файли Visual Studio
+.vs/
+*.rsuser
+*.sln.docstates
+*.userprefs
+
+# Операційна система
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Особисті дані щоденника (JSON-файл у документах користувача не потрапляє в репо)
+diary_events.json
