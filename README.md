@@ -69,7 +69,7 @@ DiaryEvent ◄──── IEventRepository ◄──── JsonEventRepository
 
 ```bash
 # Клонувати репозиторій
-git clone https://github.com/<your-username>/Diary.git
+git clone https://github.com/yarikkknure/Diary.git
 cd Diary
 
 # Зібрати
